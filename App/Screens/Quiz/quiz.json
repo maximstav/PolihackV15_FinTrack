@@ -1,0 +1,40 @@
+[
+    {
+      "q": "Care este diferența principală între nevoi și dorințe?",
+      "a": [
+        {
+          "a": "Nevoile sunt lucruri pe care le vrem, iar dorințele sunt lucruri de care avem nevoie.",
+          "isCorrect": false
+        },
+        {
+          "a": "Nevoile sunt lucruri de bază necesare pentru a trăi, în timp ce dorințele sunt lucruri plăcute, dar nu esențiale pentru supraviețuire.",
+          "isCorrect": true
+        },
+        {
+          "a": "Nevoile sunt lucruri pe care le avem deja, în timp ce dorințele sunt lucruri pe care le putem obține în viitor.",
+          "isCorrect": false
+        },
+        {
+            "a": "Dorințele sunt lucruri esențiale pentru viață, în timp ce nevoile sunt lucruri pe care le putem evita.",
+            "isCorrect": false
+        }
+      ]
+    },
+    {
+      "q": "Ce reprezintă un buget în gestionarea banilor?",
+      "a": [
+        {
+          "a": "Un buget este suma totală de bani pe care o avem.",
+          "isCorrect": false
+        },
+        {
+          "a": "Un buget este o hartă a banilor noștri, care ne ajută să știm câți bani avem și cum îi cheltuim.",
+          "isCorrect": true
+        },
+        {
+          "a": "Un buget este o listă de dorințe și obiective financiare.",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]

@@ -1,1 +1,1 @@
-# PolihackV15_FinTrack
+# ElectriGo
